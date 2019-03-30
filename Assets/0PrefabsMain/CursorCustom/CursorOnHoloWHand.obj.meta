@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: a53912a26cd645f4993bac7a5a446720
+timeCreated: 1519672431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CursorOnHoloWHand__CursorArrow
+    100004: CursorOnHoloWHand__CursorDirection__CDNE
+    100006: CursorOnHoloWHand__CursorDirection__CDNW
+    100008: CursorOnHoloWHand__CursorDirection__CDSE
+    100010: CursorOnHoloWHand__CursorDirection__CDSW
+    100012: CursorOnHoloWHand__CursorDirection__CDEast
+    100014: CursorOnHoloWHand__CursorDirection__CDNorth
+    100016: CursorOnHoloWHand__CursorDirection__CDSouth
+    100018: CursorOnHoloWHand__CursorDirection__CDWest
+    400000: //RootNode
+    400002: CursorOnHoloWHand__CursorArrow
+    400004: CursorOnHoloWHand__CursorDirection__CDNE
+    400006: CursorOnHoloWHand__CursorDirection__CDNW
+    400008: CursorOnHoloWHand__CursorDirection__CDSE
+    400010: CursorOnHoloWHand__CursorDirection__CDSW
+    400012: CursorOnHoloWHand__CursorDirection__CDEast
+    400014: CursorOnHoloWHand__CursorDirection__CDNorth
+    400016: CursorOnHoloWHand__CursorDirection__CDSouth
+    400018: CursorOnHoloWHand__CursorDirection__CDWest
+    2300000: CursorOnHoloWHand__CursorArrow
+    2300002: CursorOnHoloWHand__CursorDirection__CDNE
+    2300004: CursorOnHoloWHand__CursorDirection__CDNW
+    2300006: CursorOnHoloWHand__CursorDirection__CDSE
+    2300008: CursorOnHoloWHand__CursorDirection__CDSW
+    2300010: CursorOnHoloWHand__CursorDirection__CDEast
+    2300012: CursorOnHoloWHand__CursorDirection__CDNorth
+    2300014: CursorOnHoloWHand__CursorDirection__CDSouth
+    2300016: CursorOnHoloWHand__CursorDirection__CDWest
+    3300000: CursorOnHoloWHand__CursorArrow
+    3300002: CursorOnHoloWHand__CursorDirection__CDNE
+    3300004: CursorOnHoloWHand__CursorDirection__CDNW
+    3300006: CursorOnHoloWHand__CursorDirection__CDSE
+    3300008: CursorOnHoloWHand__CursorDirection__CDSW
+    3300010: CursorOnHoloWHand__CursorDirection__CDEast
+    3300012: CursorOnHoloWHand__CursorDirection__CDNorth
+    3300014: CursorOnHoloWHand__CursorDirection__CDSouth
+    3300016: CursorOnHoloWHand__CursorDirection__CDWest
+    4300000: CursorOnHoloWHand__CursorArrow
+    4300002: CursorOnHoloWHand__CursorDirection__CDNE
+    4300004: CursorOnHoloWHand__CursorDirection__CDNW
+    4300006: CursorOnHoloWHand__CursorDirection__CDSE
+    4300008: CursorOnHoloWHand__CursorDirection__CDSW
+    4300010: CursorOnHoloWHand__CursorDirection__CDEast
+    4300012: CursorOnHoloWHand__CursorDirection__CDNorth
+    4300014: CursorOnHoloWHand__CursorDirection__CDSouth
+    4300016: CursorOnHoloWHand__CursorDirection__CDWest
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CursorSide
+    second: {fileID: 2100000, guid: 595c2f685abd08847bcb1470a94193e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CursorTop
+    second: {fileID: 2100000, guid: 92c43079193a9854fbb29ecf86eb46be, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
