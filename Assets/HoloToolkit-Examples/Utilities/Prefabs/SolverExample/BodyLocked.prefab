@@ -101,6 +101,7 @@ MonoBehaviour:
   additionalOffset: {x: 0, y: 0, z: 0}
   additionalRotation: {x: 0, y: 0, z: 0}
   transformTarget: {fileID: 0}
+  updateSolvers: 1
 --- !u!114 &114785721768203206
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -125,4 +126,4 @@ MonoBehaviour:
   Orientation: 1
   offset: {x: 0, y: -0.6, z: 1}
   RotationTether: 1
-  TetherAngleSteps: 10
+  TetherAngleSteps: 16

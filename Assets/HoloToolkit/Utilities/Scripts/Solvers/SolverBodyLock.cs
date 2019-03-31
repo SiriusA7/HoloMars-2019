@@ -35,7 +35,7 @@ namespace HoloToolkit.Unity
         [Tooltip("RotationTether snaps the object to be in front of TrackedObject regardless of the object's local rotation.")]
         public bool RotationTether = false;
         [Tooltip("TetherAngleSteps is the division of steps this object can tether to. Higher the number, the more snapple steps.")]
-        [Range(4, 12)]
+        [Range(4, 16)]
         public int TetherAngleSteps = 6;
         #endregion
 

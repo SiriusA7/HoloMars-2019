@@ -56,7 +56,6 @@ MeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
   m_Materials:
   - {fileID: 2100000, guid: 8b4fa37d32efc2547b4954812f85e246, type: 2}
   m_StaticBatchInfo:
@@ -91,12 +90,13 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1900849008280954}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c87713fbad4edbc46a3cc23770b0b4c3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   element: 6
+  handedness: 0
   trackedObjectToReference: 0
   additionalOffset: {x: 0, y: 0, z: 0}
   additionalRotation: {x: 0, y: 0, z: 0}
@@ -123,8 +123,8 @@ MonoBehaviour:
   GoalScale: {x: 0, y: 0, z: 0}
   Smoothing: 1
   Lifetime: 0
-  orientation: 4
+  orientation: 2
   localOffset: {x: 0, y: 0, z: 0}
   worldOffset: {x: 0, y: -0.6, z: 1}
   useAngleSteppingForWorldOffset: 1
-  tetherAngleSteps: 10
+  tetherAngleSteps: 24
