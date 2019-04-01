@@ -597,7 +597,7 @@ GameObject:
   - component: {fileID: 23763217447517514}
   - component: {fileID: 102283092745829396}
   m_Layer: 0
-  m_Name: 3DTextPrefab (1)
+  m_Name: 3DTextPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -878,7 +878,7 @@ GameObject:
   - component: {fileID: 64788776859779512}
   - component: {fileID: 23769626623647376}
   m_Layer: 0
-  m_Name: Rule (1)
+  m_Name: Rule_00
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1403,7 +1403,7 @@ Transform:
   - {fileID: 4641578484824378}
   - {fileID: 4947426447529898}
   m_Father: {fileID: 4675373451943548}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4330924652540094
 Transform:
@@ -1459,7 +1459,7 @@ Transform:
   - {fileID: 4941013369839274}
   - {fileID: 4143355090468322}
   m_Father: {fileID: 4675373451943548}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4367710596373974
 Transform:
@@ -1762,8 +1762,8 @@ Transform:
   - {fileID: 4941716295278192}
   - {fileID: 4655810479969978}
   - {fileID: 4036930345407488}
-  - {fileID: 4319838712531322}
   - {fileID: 4363403273654694}
+  - {fileID: 4319838712531322}
   - {fileID: 4645479965336034}
   - {fileID: 4570508767899534}
   - {fileID: 4713073188430838}

@@ -593,7 +593,7 @@ GameObject:
   - component: {fileID: 65572842453654124}
   - component: {fileID: 114421241524864846}
   m_Layer: 0
-  m_Name: HomeButton
+  m_Name: ButtonFour
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -880,7 +880,7 @@ GameObject:
   - component: {fileID: 65422484585764498}
   - component: {fileID: 114333594874094336}
   m_Layer: 0
-  m_Name: ScaleButton
+  m_Name: ButtonThree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -917,7 +917,7 @@ GameObject:
   - component: {fileID: 65173260245348866}
   - component: {fileID: 114917488113716816}
   m_Layer: 0
-  m_Name: MeButton
+  m_Name: ButtonOne
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1978,7 +1978,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &1807581772269370
 GameObject:
   m_ObjectHideFlags: 1
@@ -2351,7 +2351,7 @@ GameObject:
   - component: {fileID: 65768008098728852}
   - component: {fileID: 114204977005372036}
   m_Layer: 0
-  m_Name: RotateButton
+  m_Name: ButtonTwo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7906,7 +7906,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1093651460563884}
-  m_Text: BRING TO ME
+  m_Text: Button One
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -7948,7 +7948,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1180010725623454}
-  m_Text: 1:1 Griffith Observatory
+  m_Text: Button Two
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -8032,7 +8032,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1513986484152604}
-  m_Text: HOME
+  m_Text: Button Four
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -8116,7 +8116,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1245529871499494}
-  m_Text: 1:1 Gondola
+  m_Text: Button Three
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1

@@ -11,7 +11,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: AakashShah
   productName: HoloMars-2019
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -565,7 +565,7 @@ PlayerSettings:
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: HoloMars-2019
-  metroPackageVersion: 1.0.6.0
+  metroPackageVersion: 1.0.7.0
   metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
